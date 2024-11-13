@@ -1,0 +1,49 @@
+/* Optional CSS file: style.css */
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background-color: #1E90FF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 20px;
+    margin: 10px auto;
+    max-width: 800px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: #1E90FF;
+}
